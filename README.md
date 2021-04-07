@@ -1,1 +1,1 @@
-# media_queries_sm_ex
+# Small media queries exercise. Completed.
